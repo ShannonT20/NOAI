@@ -69,8 +69,10 @@ P000002,1
 
 ### 7) Deliverables
 Submit:
+- Your executed notebook with all code and outputs
 - Your final submission CSV
 - A brief report describing your approach and results
+If you need clarification or encounter issues, notify the examiner before submitting.
 
 ### 8) Academic Integrity
 - Do your own work
